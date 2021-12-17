@@ -1,0 +1,13 @@
+h1{
+    margin-left: 5rem;
+    margin-top: 1rem;
+}
+
+.tipo{
+    margin: 1rem auto;
+    width: 23rem;
+    padding: 1rem;
+    border-radius: .5rem;
+    color: white;
+    background: red;
+}

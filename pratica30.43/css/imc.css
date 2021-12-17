@@ -1,0 +1,26 @@
+tml,
+body {
+ font-size: 16px;
+ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ height: 95%;
+}
+h1 {
+ margin: 1rem auto;
+ width: 27rem;
+ padding: 1rem;
+ text-align: center;
+}
+div {
+ margin: 1rem auto;
+ width: 23rem;
+
+ padding: 1rem;
+ border-radius: .5rem;
+ color: white;
+}
+.imc {
+ background: orangered;
+}
+.resultado {
+ background: red;
+}
